@@ -1,4 +1,5 @@
 # shell-and-repl
+October 2022
 
 This project was completed as a partnered project. We worked collaboratively on all aspects of this project, discussing implementations and debugging issues together. I was responsible for more implementation in the makefile and for foreground/background commands, while my partnered focused more on debugging for reaping and jobs commands. Together, we created implementation for ignoring and resetting signals, running processes in the background, and reaping setup.
 
